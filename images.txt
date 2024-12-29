@@ -7,3 +7,4 @@ xhofe/alist:latest
 halcyonazure/lsky-pro-docker
 linuxserver/calibre-web
 janeczku/calibre-web
+openjdk:17-jdk-alpine
